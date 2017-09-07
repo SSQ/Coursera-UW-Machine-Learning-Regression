@@ -31,6 +31,6 @@ open `.html` file via brower for quick look.
   - Model 3: ‘sqft_living’, ‘bedrooms’, ‘bathrooms’, ‘lat’,‘long’, ‘bed_bath_rooms’, ‘bedrooms_squared’, ‘log_sqft_living’, and ‘lat_plus_long’
 - Predicting Values and calculate Residual Sum of Squares under these three model 
   - Training set: **Model 3** has the least RSS, Model 2 and Model 1
-  - Testing set: **Model 2 has the least RSS, Model 1 and Model 3**
+  - Testing set: **Model 2** has the least RSS, Model 1 and Model 3
 
 
