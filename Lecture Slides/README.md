@@ -22,3 +22,16 @@ Week 2:
   - Interpret the coefficients of a non-featurized multiple regression fit
   - Exploit the estimated model to form predictions
   - Explain applications of multiple regression beyond house price modeling
+
+Week 3:
+- 3.0: Assessing Performance
+  - Describe what a loss function is and give examples
+  - Contrast training, generalization, and test error
+  - Compute training and test error given a loss function
+  - Discuss issue of assessing performance on training set
+  - Describe tradeoffs in forming training/test splits
+  - List and interpret the 3 sources of avg. prediction error
+    - Irreducible error, bias, and variance
+  - Discuss issue of selecting model complexity on test data and then using test error to assess generalization error
+  - Motivate use of a validation set for selecting tuning parameters (e.g., model complexity)
+  - Describe overall regression workflow
