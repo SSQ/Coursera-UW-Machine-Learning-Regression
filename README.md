@@ -30,6 +30,18 @@ Notebook for quick search can be found [here](https://ssq.github.io/2017/08/19/C
     - [x] [Exploring different multiple regression models for house price prediction](https://github.com/SSQ/Coursera-UW-Machine-Learning-Regression/tree/master/Programming%20Assignment%202)
     - [x] [Implementing gradient descent for multiple regression](https://github.com/SSQ/Coursera-UW-Machine-Learning-Regression/tree/master/Programming%20Assignment%203)
 - Week 3:
+  - Assessing Performance
+    - Describe what a loss function is and give examples
+    - Contrast training, generalization, and test error
+    - Compute training and test error given a loss function
+    - Discuss issue of assessing performance on training set
+    - Describe tradeoffs in forming training/test splits
+    - List and interpret the 3 sources of avg. prediction error
+      - Irreducible error, bias, and variance
+    - Discuss issue of selecting model complexity on test data and then using test error to assess generalization error
+    - Motivate use of a validation set for selecting tuning parameters (e.g., model complexity)
+    - Describe overall regression workflow
+    - [x] [Exploring the bias-variance tradeoff](https://github.com/SSQ/Coursera-UW-Machine-Learning-Regression/tree/master/Programming%20Assignment%204)
 - Week 4:
 - Week 5:
 - Week 6:
