@@ -38,11 +38,11 @@ Week 3:
 
 Week 4:
 - 4.0: Ridge Regression
-- Describe what happens to magnitude of estimated coefficients when model is overfit
-- Motivate form of ridge regression cost function
-- Describe what happens to estimated coefficients of ridge regression as tuning parameter λ is varied
-- Interpret coefficient path plot
-- Estimate ridge regression parameters:
-  - In closed form
-  - Using an iterative gradient descent algorithm
-- Implement K-fold cross validation to select the ridge regression tuning parameter λ
+  - Describe what happens to magnitude of estimated coefficients when model is overfit
+  - Motivate form of ridge regression cost function
+  - Describe what happens to estimated coefficients of ridge regression as tuning parameter λ is varied
+  - Interpret coefficient path plot
+  - Estimate ridge regression parameters:
+    - In closed form
+    - Using an iterative gradient descent algorithm
+  - Implement K-fold cross validation to select the ridge regression tuning parameter λ
