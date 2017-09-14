@@ -43,6 +43,17 @@ Notebook for quick search can be found [here](https://ssq.github.io/2017/08/19/C
     - Describe overall regression workflow
     - [x] [Exploring the bias-variance tradeoff](https://github.com/SSQ/Coursera-UW-Machine-Learning-Regression/tree/master/Programming%20Assignment%204)
 - Week 4:
+  - Ridge Regression
+    - Describe what happens to magnitude of estimated coefficients when model is overfit
+    - Motivate form of ridge regression cost function
+    - Describe what happens to estimated coefficients of ridge regression as tuning parameter λ is varied
+    - Interpret coefficient path plot
+    - Estimate ridge regression parameters:
+      - In closed form
+      - Using an iterative gradient descent algorithm
+    - Implement K-fold cross validation to select the ridge regression tuning parameter λ
+    - [x] [Observing effects of L2 penalty in polynomial regression](https://github.com/SSQ/Coursera-UW-Machine-Learning-Regression/tree/master/Programming%20Assignment%205)
+    - [x] [Implementing ridge regression via gradient descent](https://github.com/SSQ/Coursera-UW-Machine-Learning-Regression/tree/master/Programming%20Assignment%206)
 - Week 5:
 - Week 6:
 - Week 7:
