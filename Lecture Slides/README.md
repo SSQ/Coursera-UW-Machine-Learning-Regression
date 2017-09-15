@@ -46,3 +46,16 @@ Week 4:
     - In closed form
     - Using an iterative gradient descent algorithm
   - Implement K-fold cross validation to select the ridge regression tuning parameter λ
+  
+Week 5:
+- 5.0: Lasso Regression: Regularization for feature selection
+    - Perform feature selection using “all subsets” and “forward stepwise” algorithms
+    - Analyze computational costs of these algorithms
+    - Contrast greedy and optimal algorithms
+    - Formulate lasso objective
+    - Describe what happens to estimated lasso coefficients as tuning parameter λ is varied
+    - Interpret lasso coefficient path plot
+    - Contrast ridge and lasso regression
+    - Describe geometrically why L1 penalty leads to sparsity
+    - Estimate lasso regression parameters using an iterative coordinate descent algorithm
+    - Implement K-fold cross validation to select lasso tuning parameter λ
