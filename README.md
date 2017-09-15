@@ -55,5 +55,18 @@ Notebook for quick search can be found [here](https://ssq.github.io/2017/08/19/C
     - [x] [Observing effects of L2 penalty in polynomial regression](https://github.com/SSQ/Coursera-UW-Machine-Learning-Regression/tree/master/Programming%20Assignment%205)
     - [x] [Implementing ridge regression via gradient descent](https://github.com/SSQ/Coursera-UW-Machine-Learning-Regression/tree/master/Programming%20Assignment%206)
 - Week 5:
+  - Lasso Regression: Regularization for feature selection
+    - Perform feature selection using “all subsets” and “forward stepwise” algorithms
+    - Analyze computational costs of these algorithms
+    - Contrast greedy and optimal algorithms
+    - Formulate lasso objective
+    - Describe what happens to estimated lasso coefficients as tuning parameter λ is varied
+    - Interpret lasso coefficient path plot
+    - Contrast ridge and lasso regression
+    - Describe geometrically why L1 penalty leads to sparsity
+    - Estimate lasso regression parameters using an iterative coordinate descent algorithm
+    - Implement K-fold cross validation to select lasso tuning parameter λ
+    - [x] [Using LASSO to select features](https://github.com/SSQ/Coursera-UW-Machine-Learning-Regression/tree/master/Programming%20Assignment%207)
+    - [x] [Implementing LASSO using coordinate descent](https://github.com/SSQ/Coursera-UW-Machine-Learning-Regression/tree/master/Programming%20Assignment%208)
 - Week 6:
 - Week 7:
