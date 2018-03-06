@@ -1,8 +1,8 @@
 # Coursera UW Machine Learning: Regression
 
-Course can be found [here](https://www.coursera.org/learn/ml-regression)
+Course can be found in [Coursera](https://www.coursera.org/learn/ml-regression)
 
-Notebook for quick search can be found [here](https://ssq.github.io/2017/08/19/Coursera%20UW%20Machine%20Learning%20Specialization%20Notebook/)
+Quiz answers for quick search can be found in my blog [SSQ](https://ssq.github.io/2017/08/19/Coursera%20UW%20Machine%20Learning%20Specialization%20Notebook/)
 
 - Week 1: Simple Linear Regression:
     - Describe the input (features) and output (real-valued predictions) of a regression model
